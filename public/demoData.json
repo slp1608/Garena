@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "name": "img-1",
+      "path": "./resources/img/img-1.jpg"
+    },
+    {
+      "name": "img-2",
+      "path": "./resources/img/img-1.jpg"
+    },
+    {
+      "name": "img-3",
+      "path": "./resources/img/img-1.jpg"
+    },
+    {
+      "name": "img-4",
+      "path": "./resources/img/img-1.jpg"
+    },
+    {
+      "name": "img-5",
+      "path": "./resources/img/img-1.jpg"
+    },
+    {
+      "name": "img-6",
+      "path": "./resources/img/img-1.jpg"
+    }
+  ]
+}
